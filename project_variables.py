@@ -1,7 +1,7 @@
 from os import environ
 
-TOKEN = ""
-BOT_USERNAME = ""
+TOKEN = "604698563:AAGtlNKxckm8N7jTDGEs76bw6CYwR6rZm-0"
+BOT_USERNAME = "ronald100bot"
 HOST_ID = 139263421  # Your id in telegram
 TRUSTED_IDs = [HOST_ID]
 
@@ -37,8 +37,8 @@ PAYEER_STATUS_URL = "https://{}/check.php".format(WEBHOOK_DOMAIN)
 # </editor-fold>
 
 # <editor-fold desc="Coinbase info">
-COINBASE_API_KEY = ""
-COINBASE_API_SECRET = ""
+COINBASE_API_KEY = "wtjm7fAdp6otNZ98"
+COINBASE_API_SECRET = "MdHHiESRtdWd1uTlr8ovRwKJSqyrJLjh"
 # </editor-fold>
 
 MIN_REFILL_USD = 0.1
